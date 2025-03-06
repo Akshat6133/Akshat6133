@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshat6133
 - 👀 I’m currently interested in Machine Learning & Deep Learning Model Integration. 
 - 🌱 I’m currently learning MLOPs tools and techniques. 
-- 📫 Mail me at superkid252002@gmail.com
+- 📫 Mail me at akshatarora252002@gmail.com
 
 <!---
 - 💞️ I’m looking to collaborate on ...
