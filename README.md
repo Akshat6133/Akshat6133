@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Akshat6133
-- 👀 I’m currently interested in Machine Learning & Deep Learning Model Integration. 
-- 🌱 I’m currently learning MLOPs tools and techniques. 
-- 📫 Mail me at akshatarora252002@gmail.com
+- 👋 Hi, I’m acoder
+- 👀 I’m currently interested in kernel dev, driver dev & golang applications to test my code and simplify my life as golang is well-suited for my everyday needs.
+- 👀 I have experience in Machine Learning(CNN) model development and their Integration. 
+- 🌱 I love playing with Unix OSs(servers in particular) to the point, I have my personal rpi dedicated server. although not powerful but it's a under budget server.  
+- 📫 Mail me at acoder49@gmail.com
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-Akshat6133/Akshat6133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-hello
---->
